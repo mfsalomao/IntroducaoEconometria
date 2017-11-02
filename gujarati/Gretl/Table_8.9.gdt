@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_8.9" frequency="1" startobs="1970" endobs="1995" type="time-series">
+<description>
+Table 8.9
+Savings and personal disposable
+income, ($billions), US, 1970-1995
+
+Source: Economic Report of the President, 1997, Table B-28.
+</description>
+<variables count="2">
+<variable name="SAVINGS"
+ label="Personal saving, $ billions"/>
+<variable name="INCOME"
+ label="Personal disposable income, $billions"/>
+</variables>
+<observations count="26" labels="false">
+<obs>61.0 727.1 </obs>
+<obs>68.6 790.2 </obs>
+<obs>63.6 855.3 </obs>
+<obs>89.6 965.0 </obs>
+<obs>97.6 1054.2 </obs>
+<obs>104.4 1159.2 </obs>
+<obs>96.4 1273.0 </obs>
+<obs>92.5 1401.4 </obs>
+<obs>112.6 1580.1 </obs>
+<obs>130.1 1769.5 </obs>
+<obs>161.8 1973.3 </obs>
+<obs>199.1 2200.2 </obs>
+<obs>205.5 2347.3 </obs>
+<obs>167.0 2522.4 </obs>
+<obs>235.7 2810.0 </obs>
+<obs>206.2 3002.0 </obs>
+<obs>196.5 3187.6 </obs>
+<obs>168.4 3363.1 </obs>
+<obs>189.1 3640.8 </obs>
+<obs>187.8 3894.5 </obs>
+<obs>208.7 4166.8 </obs>
+<obs>246.4 4343.7 </obs>
+<obs>272.6 4613.7 </obs>
+<obs>214.4 4790.2 </obs>
+<obs>189.4 5021.7 </obs>
+<obs>249.3 5320.8 </obs>
+</observations>
+</gretldata>

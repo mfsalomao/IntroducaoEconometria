@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_6.9" frequency="1" startobs="1968" endobs="1982" type="time-series">
+<description>
+Table 6.9 
+
+Gross Domestic Product Deflator for Domestic Goods and the
+Gross Domestic Product Deflator for Imports, Singapore,
+               1968-1982
+
+  Y    = Gross Domestic Product Deflator for Domestic Goods
+  X    = Gross Domestic Product Deflator for Imports
+
+Source: Colin Simkin, "Does Money Matter in Singapore?", The
+Singapore Economic Review, vol. XXIX, no. 1, April 1984.
+</description>
+<variables count="2">
+<variable name="Y"
+ label="Gross Domestic Product Deflator for Domestic Goods"/>
+<variable name="X"
+ label="Gross Domestic Product Deflator for Imports"/>
+</variables>
+<observations count="15" labels="false">
+<obs>1000 1000 </obs>
+<obs>1023 1042 </obs>
+<obs>1040 1092 </obs>
+<obs>1087 1105 </obs>
+<obs>1146 1110 </obs>
+<obs>1285 1257 </obs>
+<obs>1485 1749 </obs>
+<obs>1521 1770 </obs>
+<obs>1543 1889 </obs>
+<obs>1567 1974 </obs>
+<obs>1592 2015 </obs>
+<obs>1714 2260 </obs>
+<obs>1841 2621 </obs>
+<obs>1959 2777 </obs>
+<obs>2033 2735 </obs>
+</observations>
+</gretldata>

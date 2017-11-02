@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_11.3" frequency="1" startobs="1" endobs="30" type="cross-section">
+<description>
+Table 11.3 
+Hypothetical Data on Consumption Expenditure and Income
+
+  Y  = Consumption Expenditure, $
+  X  = Income, $
+  RY = Consumption Expenditure Ranked by X Values
+  RX = Ranked Income
+</description>
+<variables count="4">
+<variable name="Y"
+ label="Consumption Expenditure, $"/>
+<variable name="X"
+ label="Income, $"/>
+<variable name="RY"
+ label="Consumption Expenditure Ranked by X Values"/>
+<variable name="RX"
+ label="Ranked Income"/>
+</variables>
+<observations count="30" labels="false">
+<obs>55 80 55 80 </obs>
+<obs>65 100 70 85 </obs>
+<obs>70 85 75 90 </obs>
+<obs>80 110 65 100 </obs>
+<obs>79 120 74 105 </obs>
+<obs>84 115 80 110 </obs>
+<obs>98 130 84 115 </obs>
+<obs>95 140 79 120 </obs>
+<obs>90 125 90 125 </obs>
+<obs>75 90 98 130 </obs>
+<obs>74 105 95 140 </obs>
+<obs>110 160 108 145 </obs>
+<obs>113 150 113 150 </obs>
+<obs>125 165 110 160 </obs>
+<obs>108 145 125 165 </obs>
+<obs>115 180 115 180 </obs>
+<obs>140 225 130 185 </obs>
+<obs>120 200 135 190 </obs>
+<obs>145 240 120 200 </obs>
+<obs>130 185 140 205 </obs>
+<obs>152 220 144 210 </obs>
+<obs>144 210 152 220 </obs>
+<obs>175 245 140 225 </obs>
+<obs>180 260 137 230 </obs>
+<obs>135 190 145 240 </obs>
+<obs>140 205 175 245 </obs>
+<obs>178 265 189 250 </obs>
+<obs>191 270 180 260 </obs>
+<obs>137 230 178 265 </obs>
+<obs>189 250 191 270 </obs>
+</observations>
+</gretldata>

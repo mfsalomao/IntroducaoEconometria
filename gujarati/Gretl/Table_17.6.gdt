@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_17.6" frequency="1" startobs="1954" endobs="1999" type="time-series">
+<description>
+Table 17.6
+
+Inventories and Sales, US Manufacturing, 1954-1999
+
+Source: Economic Report of the President, 2001, Table B-57.
+</description>
+<variables count="2">
+<variable name="INVENTS"
+ label="Manufacturing inventories, millions of dollars"/>
+<variable name="SALES"
+ label="Manufacturing sales, millions of dollars"/>
+</variables>
+<observations count="46" labels="false">
+<obs>41612 23355 </obs>
+<obs>45069 26480 </obs>
+<obs>50642 27740 </obs>
+<obs>51871 28736 </obs>
+<obs>50203 27248 </obs>
+<obs>52913 30286 </obs>
+<obs>53786 30878 </obs>
+<obs>54871 30922 </obs>
+<obs>58172 33358 </obs>
+<obs>60029 35058 </obs>
+<obs>63410 37331 </obs>
+<obs>68207 40995 </obs>
+<obs>77986 44870 </obs>
+<obs>84646 46486 </obs>
+<obs>90560 50229 </obs>
+<obs>98145 53501 </obs>
+<obs>101599 52805 </obs>
+<obs>102567 55906 </obs>
+<obs>108121 63027 </obs>
+<obs>124499 72931 </obs>
+<obs>157625 84790 </obs>
+<obs>159708 86589 </obs>
+<obs>174636 98797 </obs>
+<obs>188378 113201 </obs>
+<obs>211691 126905 </obs>
+<obs>242157 143936 </obs>
+<obs>265215 154391 </obs>
+<obs>283413 168129 </obs>
+<obs>311852 163351 </obs>
+<obs>312379 172547 </obs>
+<obs>339516 190682 </obs>
+<obs>334749 194538 </obs>
+<obs>322654 194657 </obs>
+<obs>338109 206326 </obs>
+<obs>369374 224619 </obs>
+<obs>391212 236698 </obs>
+<obs>405073 242686 </obs>
+<obs>390905 239847 </obs>
+<obs>382510 250394 </obs>
+<obs>384039 260635 </obs>
+<obs>404877 279002 </obs>
+<obs>430985 299555 </obs>
+<obs>436729 309622 </obs>
+<obs>456133 327452 </obs>
+<obs>466798 337687 </obs>
+<obs>470377 354961 </obs>
+</observations>
+</gretldata>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_11.8" frequency="1" startobs="1" endobs="15" type="cross-section">
+<description>
+Table 11.8
+Y = median salary ($)
+X = years in rank (at mid-point of interval)
+
+Source: American Statistical Association, "2000-2001 Salary
+Report of Acdemic Statisticians", Amstat News, Issue 282,
+December 2002, p. 4.
+</description>
+<variables count="2">
+<variable name="X"
+ label="years in rank (at mid-point of interval)"/>
+<variable name="Y"
+ label="median salary ($)"/>
+</variables>
+<observations count="15" labels="false">
+<obs>0.5 69000 </obs>
+<obs>2.5 70500 </obs>
+<obs>4.5 74050 </obs>
+<obs>6.5 82600 </obs>
+<obs>8.5 91439 </obs>
+<obs>10.5 83127 </obs>
+<obs>12.5 84700 </obs>
+<obs>14.5 82601 </obs>
+<obs>16.5 93286 </obs>
+<obs>18.5 90400 </obs>
+<obs>20.5 98200 </obs>
+<obs>23.0 100000 </obs>
+<obs>26.0 99662 </obs>
+<obs>30.0 116012 </obs>
+<obs>34.0 85200 </obs>
+</observations>
+</gretldata>

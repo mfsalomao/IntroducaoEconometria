@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_9.3" frequency="4" startobs="1978:1" endobs="1985:4" type="time-series">
+<description>
+Table 9.3
+
+Quarterly data on Appliance sales ('000) and 
+Expenditure on Durable goods (1978:1 to 1985:4)
+
+Source: Business Statistics and Survey of Current Business, 
+Department of Commerce (various issues)
+</description>
+<variables count="4">
+<variable name="DISH"
+ label="dishwasher sales (000s)"/>
+<variable name="FRIG"
+ label="refrigerator sales (000s)"/>
+<variable name="WASH"
+ label="washing machine sales (000s)"/>
+<variable name="DUR"
+ label="durable good expenditure, billions of 1992 $"/>
+</variables>
+<observations count="32" labels="false">
+<obs>841 1317 1271 252.6 </obs>
+<obs>957 1615 1295 272.4 </obs>
+<obs>999 1662 1313 270.9 </obs>
+<obs>960 1295 1150 273.9 </obs>
+<obs>894 1271 1289 268.9 </obs>
+<obs>851 1555 1245 262.9 </obs>
+<obs>863 1639 1270 270.9 </obs>
+<obs>878 1238 1103 263.4 </obs>
+<obs>792 1277 1273 260.6 </obs>
+<obs>589 1258 1031 231.9 </obs>
+<obs>657 1417 1143 242.7 </obs>
+<obs>699 1185 1101 248.6 </obs>
+<obs>675 1196 1181 258.7 </obs>
+<obs>652 1410 1116 248.4 </obs>
+<obs>628 1417 1190 255.5 </obs>
+<obs>529 919 1125 240.4 </obs>
+<obs>480 943 1036 247.7 </obs>
+<obs>530 1175 1019 249.1 </obs>
+<obs>557 1269 1047 251.8 </obs>
+<obs>602 973 918 262.0 </obs>
+<obs>658 1102 1137 263.3 </obs>
+<obs>749 1344 1167 280.0 </obs>
+<obs>827 1641 1230 288.5 </obs>
+<obs>858 1225 1081 300.5 </obs>
+<obs>808 1429 1326 312.6 </obs>
+<obs>840 1699 1228 322.5 </obs>
+<obs>893 1749 1297 324.3 </obs>
+<obs>950 1117 1198 333.1 </obs>
+<obs>838 1242 1292 344.8 </obs>
+<obs>884 1684 1342 350.3 </obs>
+<obs>905 1764 1323 369.1 </obs>
+<obs>909 1328 1274 356.4 </obs>
+</observations>
+</gretldata>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_6.2" frequency="1" startobs="1988" endobs="1997" type="time-series">
+<description>
+Table 6.2
+
+Gross Private Domestic Investment
+and GDP, USA, 1988-1997
+
+Source: Economic Report of the President, 1999, Table B-2
+</description>
+<variables count="4">
+<variable name="GPDIBL"
+ label="Gross private domestic investment, billion 1992 $"/>
+<variable name="GPDIM"
+ label="Gross private domestic investment, million 1992 $"/>
+<variable name="GDPB"
+ label="Gross domestic product, billion 1992 $"/>
+<variable name="GDPM"
+ label="Gross domestic product, million 1992 $"/>
+</variables>
+<observations count="10" labels="false">
+<obs>828.2 828200 5865.2 5865200 </obs>
+<obs>863.5 863500 6062.0 6062000 </obs>
+<obs>815.0 815000 6136.3 6136300 </obs>
+<obs>738.1 738100 6079.4 6079400 </obs>
+<obs>790.4 790400 6244.4 6244400 </obs>
+<obs>863.6 863600 6389.6 6389600 </obs>
+<obs>975.7 975700 6610.7 6610700 </obs>
+<obs>996.1 996100 6761.6 6761600 </obs>
+<obs>1084.1 1084100 6994.8 6994800 </obs>
+<obs>1206.4 1206400 7269.8 7269800 </obs>
+</observations>
+</gretldata>

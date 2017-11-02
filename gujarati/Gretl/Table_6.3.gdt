@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_6.3" frequency="4" startobs="1993:1" endobs="1998:3" type="time-series">
+<description>
+Table 6.3
+
+Total personal expenditure and categories
+(all figures in billions of dollars)
+
+Y1 = expenditure on services
+Y2 = expenditure on durable goods
+Y3 = expenditure on non-durable goods
+X = total personal consumption expenditure
+
+Source: Economic Report of the President, 1999, Table B-17
+</description>
+<variables count="4">
+<variable name="Y1"
+ label="Expenditure on services"/>
+<variable name="Y2"
+ label="Expenditure on durable goods"/>
+<variable name="Y3"
+ label="Expenditure on non-durable goods"/>
+<variable name="X"
+ label="Total personal consumption expenditure"/>
+</variables>
+<observations count="23" labels="false">
+<obs>2445.3 504.0 1337.5 4286.8 </obs>
+<obs>2455.9 519.3 1347.8 4322.8 </obs>
+<obs>2480.0 529.9 1356.8 4366.6 </obs>
+<obs>2494.4 542.1 1361.8 4398.0 </obs>
+<obs>2510.9 550.7 1378.4 4439.4 </obs>
+<obs>2531.4 558.8 1385.5 4472.2 </obs>
+<obs>2543.8 561.7 1393.2 4498.2 </obs>
+<obs>2555.9 576.6 1402.5 4534.1 </obs>
+<obs>2570.4 575.2 1410.4 4555.3 </obs>
+<obs>2594.8 583.5 1415.9 4593.6 </obs>
+<obs>2610.3 595.3 1418.5 4623.4 </obs>
+<obs>2622.9 602.4 1425.6 4650.0 </obs>
+<obs>2648.5 611.0 1433.5 4692.1 </obs>
+<obs>2668.4 629.5 1450.4 4746.6 </obs>
+<obs>2688.1 626.5 1454.7 4768.3 </obs>
+<obs>2701.7 637.5 1465.1 4802.6 </obs>
+<obs>2722.1 656.3 1477.9 4853.4 </obs>
+<obs>2743.6 653.8 1477.1 4872.7 </obs>
+<obs>2775.4 679.6 1495.7 4947.0 </obs>
+<obs>2804.8 648.8 1494.3 4981.0 </obs>
+<obs>2829.3 710.3 1521.2 5055.1 </obs>
+<obs>2866.8 729.4 1540.9 5130.2 </obs>
+<obs>2904.8 733.7 1549.1 5181.8 </obs>
+</observations>
+</gretldata>

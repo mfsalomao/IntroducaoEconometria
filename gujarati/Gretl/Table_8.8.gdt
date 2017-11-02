@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_8.8" frequency="1" startobs="1955" endobs="1974" type="time-series">
+<description>
+Table 8.8
+Real GDP, Employment and Fixed capital,
+Mexico, 1955-1972
+
+Source: Victor J. Elias, Sources of Growth: A study of Seven Latin
+American Economies, International Center for Economic Growth, ICS
+Press, San Francisco, 1992, Tables E5, E12 and E14.
+</description>
+<variables count="3">
+<variable name="GDP"
+ label="Gross Domestic Product, millions of 1960 pesos"/>
+<variable name="Employ"
+ label="Employment, thousands of people"/>
+<variable name="Capital"
+ label="Fixed capital, millions of 1960 pesos"/>
+</variables>
+<observations count="20" labels="false">
+<obs>114043 8310 182113 </obs>
+<obs>120410 8529 193749 </obs>
+<obs>129187 8738 205192 </obs>
+<obs>134705 8952 215130 </obs>
+<obs>139960 9171 225021 </obs>
+<obs>150511 9569 237026 </obs>
+<obs>157897 9527 248897 </obs>
+<obs>165286 9662 260661 </obs>
+<obs>178491 10334 275466 </obs>
+<obs>199457 10981 295378 </obs>
+<obs>212323 11746 315715 </obs>
+<obs>226977 11521 337642 </obs>
+<obs>241194 11540 363599 </obs>
+<obs>260881 12066 391847 </obs>
+<obs>277498 12297 422382 </obs>
+<obs>296530 12955 455049 </obs>
+<obs>306712 13338 484677 </obs>
+<obs>329030 13738 520553 </obs>
+<obs>354057 15924 561531 </obs>
+<obs>374977 14154 609825 </obs>
+</observations>
+</gretldata>

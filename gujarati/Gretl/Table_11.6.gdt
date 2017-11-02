@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_11.6" frequency="4" startobs="1971:1" endobs="1973:4" type="time-series">
+<description>
+Table 11.6
+
+Sales/Cash Ratio in U.S. Manufacturing Industries Classified
+by the Asset Size of the Establishment, 1971.1 to 1973.4
+
+  ASSET = Asset Size, Millions of $
+          where: A=1 to 10
+                 B=10 to 25
+                 C=25 to 50
+                 D=50 to 100
+                 E=100 to 250
+                 F=250 to 1000
+                 G=1000+
+
+Source: Quarterly Financial Report for Manufacturing Corporations,
+FTC and SEC, U.S. Government, various issues.
+</description>
+<variables count="7">
+<variable name="A"
+ label="Sales/Cash Ratio, Asset Size 1 to 10 $ million"/>
+<variable name="B"
+ label="Sales/Cash Ratio, Asset Size 10 to 25 $ million"/>
+<variable name="C"
+ label="Sales/Cash Ratio, Asset Size 25 to 50 $ million"/>
+<variable name="D"
+ label="Sales/Cash Ratio, Asset Size 50 to 100 $ million"/>
+<variable name="E"
+ label="Sales/Cash Ratio, Asset Size 100 to 250 $ million"/>
+<variable name="F"
+ label="Sales/Cash Ratio, Asset Size 250 to 1000 $ million"/>
+<variable name="G"
+ label="Sales/Cash Ratio, Asset Size &gt; 1000 $ million"/>
+</variables>
+<observations count="12" labels="false">
+<obs>6.696 6.929 6.858 6.966 7.819 7.557 7.860 </obs>
+<obs>6.826 7.311 7.299 7.081 7.907 7.685 7.351 </obs>
+<obs>6.338 7.035 7.082 7.145 7.691 7.309 7.088 </obs>
+<obs>6.272 6.265 6.874 6.485 6.778 7.120 6.765 </obs>
+<obs>6.692 6.236 7.101 7.060 7.104 7.584 6.717 </obs>
+<obs>6.818 7.010 7.719 7.009 8.064 7.457 7.280 </obs>
+<obs>6.783 6.934 7.182 6.923 7.784 7.142 6.619 </obs>
+<obs>6.779 6.988 6.531 7.146 7.279 6.928 6.919 </obs>
+<obs>7.291 7.428 7.272 7.571 7.583 7.053 6.630 </obs>
+<obs>7.766 9.071 7.818 8.692 8.608 7.571 6.805 </obs>
+<obs>7.733 8.357 8.090 8.357 7.680 7.654 6.772 </obs>
+<obs>8.316 7.621 7.766 7.867 7.666 7.380 7.072 </obs>
+</observations>
+</gretldata>

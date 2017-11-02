@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_10.5" frequency="1" startobs="1" endobs="10" type="cross-section">
+<description>
+Table 10.5 
+Hypothetical Data on Consumption Expenditure, 
+Income and Wealth
+
+  Y  = Consumption Expenditure, $
+  X2 = Income, $
+  X3 = Wealth, $
+</description>
+<variables count="3">
+<variable name="Y"
+ label="Consumption Expenditure, $"/>
+<variable name="X2"
+ label="Income, $"/>
+<variable name="X3"
+ label="Wealth, $"/>
+</variables>
+<observations count="10" labels="false">
+<obs>70 80 810 </obs>
+<obs>65 100 1009 </obs>
+<obs>90 120 1273 </obs>
+<obs>95 140 1425 </obs>
+<obs>110 160 1633 </obs>
+<obs>115 180 1876 </obs>
+<obs>120 200 2052 </obs>
+<obs>140 220 2201 </obs>
+<obs>155 240 2435 </obs>
+<obs>150 260 2686 </obs>
+</observations>
+</gretldata>

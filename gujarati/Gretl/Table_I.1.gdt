@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_I.1" frequency="1" startobs="1982" endobs="1996" type="time-series">
+<description>
+Table I.1
+
+Data on Y (Personal Consumption Expenditure)
+and X (Gross Domestic Product),1982-1996) 
+all in 1992 billions of dollars
+
+From the Economic Report of the President, 1998, Table B-2,
+page 282.
+</description>
+<variables count="2">
+<variable name="Y"
+ label="= Personal Consumption Expenditure (billion 1992 dollars)"/>
+<variable name="X"
+ label="= Gross Domestic Product (billion 1992 dollars)"/>
+</variables>
+<observations count="15" labels="false">
+<obs>3081.5 4620.3 </obs>
+<obs>3240.6 4803.7 </obs>
+<obs>3407.6 5140.1 </obs>
+<obs>3566.5 5323.5 </obs>
+<obs>3708.7 5487.7 </obs>
+<obs>3822.3 5649.5 </obs>
+<obs>3972.7 5865.2 </obs>
+<obs>4064.6 6062.0 </obs>
+<obs>4132.2 6136.3 </obs>
+<obs>4105.8 6079.4 </obs>
+<obs>4219.8 6244.4 </obs>
+<obs>4343.6 6389.6 </obs>
+<obs>4486.0 6610.7 </obs>
+<obs>4595.3 6742.1 </obs>
+<obs>4714.1 6928.4 </obs>
+</observations>
+</gretldata>

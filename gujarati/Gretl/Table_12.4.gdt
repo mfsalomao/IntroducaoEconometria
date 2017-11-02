@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_12.4" frequency="1" startobs="1959" endobs="1998" type="time-series">
+<description>
+Table 12.4
+
+Indices of real compensation and output per hour,
+United States, 1959-1998
+
+Source: Economic Report of the President, 2000, Table B-47.
+</description>
+<variables count="2">
+<variable name="Y"
+ label="Index of real compensation, business sector (1992 = 100)"/>
+<variable name="X"
+ label="Index of output per hour, business sector (1992 = 100)"/>
+</variables>
+<observations count="40" labels="false">
+<obs>58.5 47.2 </obs>
+<obs>59.9 48.0 </obs>
+<obs>61.7 49.8 </obs>
+<obs>63.9 52.1 </obs>
+<obs>65.3 54.1 </obs>
+<obs>67.8 56.6 </obs>
+<obs>69.3 58.6 </obs>
+<obs>71.8 61.0 </obs>
+<obs>73.7 62.3 </obs>
+<obs>76.5 64.5 </obs>
+<obs>77.6 64.8 </obs>
+<obs>79.0 66.2 </obs>
+<obs>80.5 68.8 </obs>
+<obs>82.9 71.0 </obs>
+<obs>84.7 73.1 </obs>
+<obs>83.7 72.2 </obs>
+<obs>84.5 74.8 </obs>
+<obs>87.0 77.2 </obs>
+<obs>88.1 78.4 </obs>
+<obs>89.7 79.5 </obs>
+<obs>90.0 79.7 </obs>
+<obs>89.7 79.8 </obs>
+<obs>89.8 81.4 </obs>
+<obs>91.1 81.2 </obs>
+<obs>91.2 84.0 </obs>
+<obs>91.5 86.4 </obs>
+<obs>92.8 88.1 </obs>
+<obs>95.9 90.7 </obs>
+<obs>96.3 91.3 </obs>
+<obs>97.3 92.4 </obs>
+<obs>95.8 93.3 </obs>
+<obs>96.4 94.5 </obs>
+<obs>97.4 95.9 </obs>
+<obs>100.0 100.0 </obs>
+<obs>99.9 100.1 </obs>
+<obs>99.7 101.4 </obs>
+<obs>99.1 102.2 </obs>
+<obs>99.6 105.2 </obs>
+<obs>101.1 107.5 </obs>
+<obs>105.1 110.5 </obs>
+</observations>
+</gretldata>

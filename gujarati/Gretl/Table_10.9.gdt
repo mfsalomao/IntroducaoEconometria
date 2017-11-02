@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_10.9" frequency="1" startobs="1" endobs="11" type="cross-section">
+<description>
+Table 10.9
+</description>
+<variables count="3">
+<variable name="Y"/>
+<variable name="X2"/>
+<variable name="X3"/>
+</variables>
+<observations count="11" labels="false">
+<obs>-10 1 1 </obs>
+<obs>-8 2 3 </obs>
+<obs>-6 3 5 </obs>
+<obs>-4 4 7 </obs>
+<obs>-2 5 9 </obs>
+<obs>0 6 11 </obs>
+<obs>2 7 13 </obs>
+<obs>4 8 15 </obs>
+<obs>6 9 17 </obs>
+<obs>8 10 19 </obs>
+<obs>10 11 21 </obs>
+</observations>
+</gretldata>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_15.21" frequency="1" startobs="1" endobs="13" type="cross-section">
+<description>
+Table 15.21
+
+Applicants to a Graduate Program
+
+  STUDENT = Student Number
+  Q       = GRE Aptitude Test Score - Quantitative
+  V       = GRE Aptitude Test Score - Verbal
+  ADMIT   = Admitted to Graduate Program
+            where: 1=Yes
+                   0=No
+
+Source: Donald F. Morrison, Applied Linear Statistical Methods,
+Prentice-Hall, 1983, p. 279 (adapted).
+</description>
+<variables count="4">
+<variable name="STUDENT"
+ label="Student Number"/>
+<variable name="Q"
+ label="GRE Aptitude Test Score - Quantitative"/>
+<variable name="V"
+ label="GRE Aptitude Test Score - Verbal"/>
+<variable name="ADMIT"
+ label="Admitted to Graduate Program (yes = 1, no = 0)"/>
+</variables>
+<observations count="13" labels="false">
+<obs>1 760 550 1 </obs>
+<obs>2 600 350 0 </obs>
+<obs>3 720 320 0 </obs>
+<obs>4 710 630 1 </obs>
+<obs>5 530 430 0 </obs>
+<obs>6 650 570 0 </obs>
+<obs>7 800 500 1 </obs>
+<obs>8 650 680 1 </obs>
+<obs>9 520 660 0 </obs>
+<obs>10 800 250 0 </obs>
+<obs>11 670 480 0 </obs>
+<obs>12 670 520 1 </obs>
+<obs>13 780 710 1 </obs>
+</observations>
+</gretldata>

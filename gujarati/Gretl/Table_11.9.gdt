@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_11.9" frequency="1" startobs="1" endobs="20" type="cross-section">
+<description>
+Table 11.9
+
+Stock Prices and Consumer Prices, Post-World War II Period,
+Through 1969
+    
+  COUNTRY = Country
+  Y       = Rate of Change, Stock Prices, Percent Per Year
+  X       = Rate of Change, Consumer Prices, Percent Per Year
+
+Source: Phillip Cagan, Common Stock Values and Inflation, The
+Historical Record of Many Countries, NBER, Suppl., March 1974,
+Table 1, p. 4.
+</description>
+<variables count="2">
+<variable name="Y"
+ label="Rate of Change, Stock Prices, Percent Per Year"/>
+<variable name="X"
+ label="Rate of Change, Consumer Prices, Percent Per Year"/>
+</variables>
+<observations count="20" labels="true">
+<obs label="Australi">5.0 4.3 </obs>
+<obs label="Austria">11.1 4.6 </obs>
+<obs label="Belgium">3.2 2.4 </obs>
+<obs label="Canada">7.9 2.4 </obs>
+<obs label="Chile">25.5 26.4 </obs>
+<obs label="Denmark">3.8 4.2 </obs>
+<obs label="Finland">11.1 5.5 </obs>
+<obs label="France">9.9 4.7 </obs>
+<obs label="Germany">13.3 2.2 </obs>
+<obs label="India">1.5 4.0 </obs>
+<obs label="Ireland">6.4 4.0 </obs>
+<obs label="Israel">8.9 8.4 </obs>
+<obs label="Italy">8.1 3.3 </obs>
+<obs label="Japan">13.5 4.7 </obs>
+<obs label="Mexico">4.7 5.2 </obs>
+<obs label="Netherla">7.5 3.6 </obs>
+<obs label="NewZeala">4.7 3.6 </obs>
+<obs label="Sweden">8.0 4.0 </obs>
+<obs label="UK">7.5 3.9 </obs>
+<obs label="USA">9.0 2.1 </obs>
+</observations>
+</gretldata>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_18.2" frequency="1" startobs="1970" endobs="1999" type="time-series">
+<description>
+Table 18.2
+
+PCE, GPDI and GDP, USA, 1970-1999
+
+Source: Economic Report of the President, 2001, Table B-2.
+</description>
+<variables count="3">
+<variable name="PCE"
+ label="Personal Consumption Expenditure (1996 $ billions)"/>
+<variable name="GPDI"
+ label="Gross Private Domestic Investment (1996 $ billions)"/>
+<variable name="GDP"
+ label="Gross Domestic Product (1996 $ billions)"/>
+</variables>
+<observations count="30" labels="false">
+<obs>2317.5 436.2 3578.0 </obs>
+<obs>2405.2 485.8 3697.7 </obs>
+<obs>2550.5 543.0 3998.4 </obs>
+<obs>2675.9 606.5 4123.4 </obs>
+<obs>2653.7 561.7 4099.0 </obs>
+<obs>2710.9 462.2 4084.4 </obs>
+<obs>2868.9 555.5 4311.7 </obs>
+<obs>2992.1 639.4 4511.8 </obs>
+<obs>3124.7 713.0 4760.6 </obs>
+<obs>3203.2 735.4 4912.1 </obs>
+<obs>3193.0 655.3 4900.9 </obs>
+<obs>3236.0 715.6 5021.0 </obs>
+<obs>3275.5 615.2 4913.3 </obs>
+<obs>3454.3 673.7 5132.3 </obs>
+<obs>3640.6 871.5 5505.2 </obs>
+<obs>3820.9 863.4 5717.1 </obs>
+<obs>3981.2 857.7 5912.4 </obs>
+<obs>4113.4 879.3 6113.3 </obs>
+<obs>4279.5 902.8 6368.4 </obs>
+<obs>4393.7 936.5 6591.9 </obs>
+<obs>4474.5 907.3 6707.9 </obs>
+<obs>4466.6 829.5 6676.4 </obs>
+<obs>4594.5 899.8 6880.0 </obs>
+<obs>4748.9 977.9 7062.6 </obs>
+<obs>4928.1 1107.0 7347.7 </obs>
+<obs>5075.6 1140.6 7543.8 </obs>
+<obs>5237.5 1242.7 7813.2 </obs>
+<obs>5423.9 1393.3 8159.5 </obs>
+<obs>5678.7 1566.8 8515.7 </obs>
+<obs>5978.8 1669.7 8875.8 </obs>
+</observations>
+</gretldata>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_6.1" frequency="1" startobs="1971" endobs="1980" type="time-series">
+<description>
+Table 6.1 
+
+Annual Rates of Return on Afuture Fund and on the Fisher Index
+            (Market Portfolio), 1971-1980
+
+  Y    = Return on Afuture Fund, Percent
+  X    = Return on Fisher Index, Percent
+
+Source: H. Levy and M. Sarnat, Portfolio and Investment Selection,
+Prentice-Hall, 1984, pp. 730 and 738.
+</description>
+<variables count="2">
+<variable name="Y"
+ label="Return on Afuture Fund, Percent"/>
+<variable name="X"
+ label="Return on Fisher Index, Percent"/>
+</variables>
+<observations count="10" labels="false">
+<obs>67.5 19.5 </obs>
+<obs>19.2 8.5 </obs>
+<obs>-35.2 -29.3 </obs>
+<obs>-42.0 -26.5 </obs>
+<obs>63.7 61.9 </obs>
+<obs>19.3 45.5 </obs>
+<obs>3.6 9.5 </obs>
+<obs>20.0 14.0 </obs>
+<obs>40.3 35.3 </obs>
+<obs>37.5 31.0 </obs>
+</observations>
+</gretldata>

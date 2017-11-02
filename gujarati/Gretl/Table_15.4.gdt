@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_15.4" frequency="1" startobs="1" endobs="10" type="cross-section">
+<description>
+Table 15.4
+
+Hypothetical Data on Income, Number of Families at Income Xi
+and Number of Families Owning a House
+
+  X = Income, Thousands of $
+  N = Number of Families at Income, Xi
+  n = Number of Families Owning a House
+</description>
+<variables count="3">
+<variable name="X"
+ label="Income, Thousands of $"/>
+<variable name="N"
+ label="Number of Families at Income, Xi"/>
+<variable name="n"
+ label="Number of Families Owning a House"/>
+</variables>
+<observations count="10" labels="false">
+<obs>6 40 8 </obs>
+<obs>8 50 12 </obs>
+<obs>10 60 18 </obs>
+<obs>13 80 28 </obs>
+<obs>15 100 45 </obs>
+<obs>20 70 36 </obs>
+<obs>25 65 39 </obs>
+<obs>30 50 33 </obs>
+<obs>35 40 30 </obs>
+<obs>40 25 20 </obs>
+</observations>
+</gretldata>

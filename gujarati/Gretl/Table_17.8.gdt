@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_17.8" frequency="1" startobs="1970" endobs="1991" type="time-series">
+<description>
+Table 17.8
+
+Investment in Fixed Plant and Equipment in Manufacturing
+and Manufacturing Sales, United States, 1970-1991
+
+  Y    = Plant Expenditure, Seasonally Adjusted, Billions of $
+  X2   = Manufacturing Sales, Seasonally Adjusted, Billions of $
+
+Source: Economic Report of the President, 1993, Tables B-52
+and B-53.  
+</description>
+<variables count="2">
+<variable name="Y"
+ label="Plant Expenditure, Seasonally Adjusted, Billions of $"/>
+<variable name="X2"
+ label="Manufacturing Sales, Seasonally Adjusted, Billions of $"/>
+</variables>
+<observations count="22" labels="false">
+<obs>36.99 52.805 </obs>
+<obs>33.60 55.906 </obs>
+<obs>35.42 63.027 </obs>
+<obs>42.35 72.931 </obs>
+<obs>52.48 84.790 </obs>
+<obs>53.66 86.589 </obs>
+<obs>58.53 98.797 </obs>
+<obs>67.48 113.201 </obs>
+<obs>78.13 126.905 </obs>
+<obs>95.13 143.936 </obs>
+<obs>112.60 154.391 </obs>
+<obs>128.68 168.129 </obs>
+<obs>123.97 163.351 </obs>
+<obs>117.35 172.547 </obs>
+<obs>139.61 190.682 </obs>
+<obs>152.88 194.538 </obs>
+<obs>137.95 194.657 </obs>
+<obs>141.06 206.326 </obs>
+<obs>163.45 223.541 </obs>
+<obs>183.80 232.724 </obs>
+<obs>192.61 239.459 </obs>
+<obs>182.81 235.142 </obs>
+</observations>
+</gretldata>

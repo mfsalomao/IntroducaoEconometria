@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_9.1" frequency="1" startobs="1" endobs="51" type="cross-section">
+<description>
+Table 9.1
+Average Salary of Public School Teachers, by state
+
+Source: National Educational Association, reported in Albuquerque
+Tribune, Nov 7, 1986.
+</description>
+<variables count="4">
+<variable name="SALARY"
+ label="Average salary of public school teachers"/>
+<variable name="SPENDING"
+ label="Spending on public schools, per pupil"/>
+<variable name="D1"
+ label="= 1 for states in the Northeast and North Central, 0 otherwise"/>
+<variable name="D2"
+ label="= 1 for states in the South, 0 otherwise"/>
+</variables>
+<observations count="51" labels="false">
+<obs>19583 3346 1 0 </obs>
+<obs>20263 3114 1 0 </obs>
+<obs>20325 3554 1 0 </obs>
+<obs>26800 4642 1 0 </obs>
+<obs>29470 4669 1 0 </obs>
+<obs>26610 4888 1 0 </obs>
+<obs>30678 5710 1 0 </obs>
+<obs>27170 5536 1 0 </obs>
+<obs>25853 4168 1 0 </obs>
+<obs>24500 3547 1 0 </obs>
+<obs>24274 3159 1 0 </obs>
+<obs>27170 3621 1 0 </obs>
+<obs>30168 3782 1 0 </obs>
+<obs>26525 4247 1 0 </obs>
+<obs>27360 3982 1 0 </obs>
+<obs>21690 3568 1 0 </obs>
+<obs>21974 3155 1 0 </obs>
+<obs>20816 3059 1 0 </obs>
+<obs>18095 2967 1 0 </obs>
+<obs>20939 3285 1 0 </obs>
+<obs>22644 3914 1 0 </obs>
+<obs>24624 4517 0 1 </obs>
+<obs>27186 4349 0 1 </obs>
+<obs>33990 5020 0 1 </obs>
+<obs>23382 3594 0 1 </obs>
+<obs>20627 2821 0 1 </obs>
+<obs>22795 3366 0 1 </obs>
+<obs>21570 2920 0 1 </obs>
+<obs>22080 2980 0 1 </obs>
+<obs>22250 3731 0 1 </obs>
+<obs>20940 2853 0 1 </obs>
+<obs>21800 2533 0 1 </obs>
+<obs>22934 2729 0 1 </obs>
+<obs>18443 2305 0 1 </obs>
+<obs>19538 2642 0 1 </obs>
+<obs>20460 3124 0 1 </obs>
+<obs>21419 2752 0 1 </obs>
+<obs>25160 3429 0 1 </obs>
+<obs>22482 3947 0 0 </obs>
+<obs>20969 2509 0 0 </obs>
+<obs>27224 5440 0 0 </obs>
+<obs>25892 4042 0 0 </obs>
+<obs>22644 3402 0 0 </obs>
+<obs>24640 2829 0 0 </obs>
+<obs>22341 2297 0 0 </obs>
+<obs>25610 2932 0 0 </obs>
+<obs>26015 3705 0 0 </obs>
+<obs>25788 4123 0 0 </obs>
+<obs>29132 3608 0 0 </obs>
+<obs>41480 8349 0 0 </obs>
+<obs>25845 3766 0 0 </obs>
+</observations>
+</gretldata>

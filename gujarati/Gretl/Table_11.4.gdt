@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_11.4" frequency="1" startobs="1" endobs="9" type="cross-section">
+<description>
+Table 11.4 
+
+Data on Average Compensation, Employment Size and Standard
+Deviation of Compensation
+
+  Y      = Average Compensation
+  X      = Employment Size
+           where: 1=1 to 4 Employees
+                  2=5 to 9 Employees
+                  3=10 to 19 Employees
+                  4=20 to 49 Employees
+                  5=50 to 99 Employees
+                  6=100 to 249 Employees
+                  7=250 to 499 Employees
+                  8=500 to 999 Employees
+                  9=1000 to 2499 Employees
+  SIGMA  = Standard Deviation of Compensation
+  YSIGMA = Y/SIGMA
+  XSIGMA = X/SIGMA
+</description>
+<variables count="5">
+<variable name="Y"
+ label="Average Compensation"/>
+<variable name="X"
+ label="Employment Size Code (see data info)"/>
+<variable name="SIGMA"
+ label="Standard Deviation of Compensation"/>
+<variable name="YSIGMA"
+ label="Y/SIGMA"/>
+<variable name="XSIGMA"
+ label="X/SIGMA"/>
+</variables>
+<observations count="9" labels="false">
+<obs>3396 1 743.70 4.5664 0.0013 </obs>
+<obs>3787 2 851.40 4.4480 0.0023 </obs>
+<obs>4013 3 727.80 5.5139 0.0041 </obs>
+<obs>4104 4 805.06 5.0978 0.0050 </obs>
+<obs>4146 5 929.90 4.4585 0.0054 </obs>
+<obs>4241 6 1080.60 3.9247 0.0055 </obs>
+<obs>4387 7 1243.20 3.5288 0.0056 </obs>
+<obs>4538 8 1307.70 3.4702 0.0061 </obs>
+<obs>4834 9 1112.50 4.3532 0.0081 </obs>
+</observations>
+</gretldata>

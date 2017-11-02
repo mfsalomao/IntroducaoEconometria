@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_10.10" frequency="1" startobs="1936" endobs="1952" type="time-series">
+<description>
+Table 10.10
+
+   Y    = Consumption
+   X2   = Wage Income, Billions of 1939 $
+   X3   = Nonwage and Nonfarm Income, Billions of 1939 $
+   X4   = Farm Income, Billions of 1939 $
+
+Source: Klein and Goldberger, An Economic Model of the United
+States, 1929-1952, North Holland, 1963, p. 131
+</description>
+<variables count="4">
+<variable name="Y"
+ label="Consumption"/>
+<variable name="X2"
+ label="Wage Income, Billions of 1939 $"/>
+<variable name="X3"
+ label="Nonwage and Nonfarm Income, Billions of 1939 $"/>
+<variable name="X4"
+ label="Farm Income, Billions of 1939 $"/>
+</variables>
+<observations count="17" labels="false">
+<obs>62.8 43.41 17.10 3.96 </obs>
+<obs>65.0 46.44 18.65 5.48 </obs>
+<obs>63.9 44.35 17.09 4.37 </obs>
+<obs>67.5 47.82 19.28 4.51 </obs>
+<obs>71.3 51.02 23.24 4.88 </obs>
+<obs>76.6 58.71 28.11 6.37 </obs>
+<obs>NA NA NA NA </obs>
+<obs>NA NA NA NA </obs>
+<obs>NA NA NA NA </obs>
+<obs>86.3 87.69 30.29 8.96 </obs>
+<obs>95.7 76.73 28.26 9.76 </obs>
+<obs>98.3 75.91 27.91 9.31 </obs>
+<obs>100.3 77.62 32.30 9.85 </obs>
+<obs>103.2 78.01 31.39 7.21 </obs>
+<obs>108.9 83.57 35.61 7.39 </obs>
+<obs>108.5 90.59 37.58 7.98 </obs>
+<obs>111.4 95.47 35.17 7.42 </obs>
+</observations>
+</gretldata>

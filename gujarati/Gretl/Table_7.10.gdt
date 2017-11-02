@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_7.10" frequency="1" startobs="1980" endobs="1998" type="time-series">
+<description>
+Table 7.10
+Demand for Money in the USA, 1980-1998
+
+Source: Economic Report of the President, 2000, Tables
+B-1, B-58, B-67 and B-71.
+</description>
+<variables count="5">
+<variable name="GDP"
+ label="Gross Domestic Product ($ billions)"/>
+<variable name="M2"
+ label="Money Stock, M2 ($ billions)"/>
+<variable name="CPI"
+ label="Consumer Price Index (1982-1984 = 100)"/>
+<variable name="LTRATE"
+ label="Long-term interest rate (30-year Treasury bond)"/>
+<variable name="TBRATE"
+ label="Three-month Treasury bill rate (% per annum)"/>
+</variables>
+<observations count="19" labels="false">
+<obs>2795.6 1600.4 82.4 11.27 11.506 </obs>
+<obs>3131.3 1756.1 90.9 13.45 14.029 </obs>
+<obs>3259.2 1911.2 96.5 12.76 10.686 </obs>
+<obs>3534.9 2127.8 99.6 11.18 8.630 </obs>
+<obs>3932.7 2311.7 103.9 12.41 9.580 </obs>
+<obs>4213.0 2497.4 107.6 10.79 7.480 </obs>
+<obs>4452.9 2734.0 109.6 7.78 5.980 </obs>
+<obs>4742.5 2832.8 113.6 8.59 5.820 </obs>
+<obs>5108.3 2995.8 118.3 8.96 6.690 </obs>
+<obs>5489.1 3159.9 124.0 8.45 8.120 </obs>
+<obs>5803.2 3279.1 130.7 8.61 7.510 </obs>
+<obs>5986.2 3379.8 136.2 8.14 5.420 </obs>
+<obs>6318.9 3434.1 140.3 7.67 3.450 </obs>
+<obs>6642.3 3487.5 144.5 6.59 3.020 </obs>
+<obs>7054.3 3502.2 148.2 7.37 4.290 </obs>
+<obs>7400.5 3649.3 152.4 6.88 5.510 </obs>
+<obs>7813.2 3824.2 156.9 6.71 5.020 </obs>
+<obs>8300.8 4046.7 160.5 6.61 5.070 </obs>
+<obs>8759.9 4401.4 163.0 5.58 4.810 </obs>
+</observations>
+</gretldata>

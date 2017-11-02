@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_1.1" frequency="1" startobs="1" endobs="25" type="cross-section">
+<description>
+Table 1.1
+
+U.S. Egg Production
+  STATE = State
+  Y1    = Eggs Produced in 1990, Millions
+  Y2    = Eggs Produced in 1991, Millions
+  X1    = Price Per Dozen in 1990, Cents
+  X2    = Price Per Dozen in 1991, Cents
+
+Source: World Almanac, 1993, p. 119.  The data are from the
+Economic Research Service, U.S. Department of Agriculture.
+</description>
+<variables count="4">
+<variable name="Y1"
+ label="Eggs Produced in 1990, Millions"/>
+<variable name="Y2"
+ label="Eggs Produced in 1991, Millions"/>
+<variable name="X1"
+ label="Price Per Dozen in 1990, Cents"/>
+<variable name="X2"
+ label="Price Per Dozen in 1991, Cents"/>
+</variables>
+<observations count="25" labels="true">
+<obs label="AL">2206.0 2186.0 92.7 91.4 </obs>
+<obs label="AK">0.7 0.7 151.0 149.0 </obs>
+<obs label="AZ">73.0 74.0 61.0 56.0 </obs>
+<obs label="AR">3620.0 3737.0 86.3 91.8 </obs>
+<obs label="CA">7472.0 7444.0 63.4 58.4 </obs>
+<obs label="CO">788.0 873.0 77.8 73.0 </obs>
+<obs label="CT">1029.0 948.0 106.0 104.0 </obs>
+<obs label="DE">168.0 164.0 117.0 113.0 </obs>
+<obs label="FL">2568.0 2537.0 62.0 57.2 </obs>
+<obs label="GA">4302.0 4301.0 80.6 80.8 </obs>
+<obs label="HI">227.5 224.5 85.0 85.5 </obs>
+<obs label="ID">187.0 203.0 79.1 72.9 </obs>
+<obs label="IL">793.0 809.0 65.0 70.5 </obs>
+<obs label="IN">5445.0 5290.0 62.7 60.1 </obs>
+<obs label="IA">2151.0 2247.0 56.5 53.0 </obs>
+<obs label="KS">404.0 389.0 54.5 47.8 </obs>
+<obs label="KY">412.0 483.0 67.7 73.5 </obs>
+<obs label="LA">273.0 254.0 115.0 115.0 </obs>
+<obs label="ME">1069.0 1070.0 101.0 97.0 </obs>
+<obs label="MD">885.0 898.0 76.6 75.4 </obs>
+<obs label="MA">235.0 237.0 105.0 102.0 </obs>
+<obs label="MI">1406.0 1396.0 58.0 53.8 </obs>
+<obs label="MN">2499.0 2697.0 57.7 54.0 </obs>
+<obs label="MS">1434.0 1468.0 87.8 86.7 </obs>
+<obs label="MO">1580.0 1622.0 55.4 51.5 </obs>
+</observations>
+</gretldata>

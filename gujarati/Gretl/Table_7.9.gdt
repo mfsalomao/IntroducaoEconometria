@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_7.9" frequency="1" startobs="1960" endobs="1982" type="time-series">
+<description>
+Table 7.9 
+Demand for Chickens, United States, 1960-1982
+
+  Y    = Per Capita Consumption of Chickens, Pounds
+  X2   = Real Disposable Income Per Capita, $
+  X3   = Real Retail Price of Chicken Per Pound, Cents
+  X4   = Real Retail Price of Pork Per Pound, Cents
+  X5   = Real Retail Price of Beef Per Pound, Cents
+  X6   = Composite Real Price of Chicken Substitutes Per Pound, Cents
+
+Source: Consumption from Citibase, other data from U.S. Department
+of Agriculture.  Data collected by Robert J. Fisher.
+</description>
+<variables count="6">
+<variable name="Y"
+ label="Per Capita Consumption of Chickens, Pounds"/>
+<variable name="X2"
+ label="Real Disposable Income Per Capita, $"/>
+<variable name="X3"
+ label="Real Retail Price of Chicken Per Pound, Cents"/>
+<variable name="X4"
+ label="Real Retail Price of Pork Per Pound, Cents"/>
+<variable name="X5"
+ label="Real Retail Price of Beef Per Pound, Cents"/>
+<variable name="X6"
+ label="Composite Real Price of Chicken Substitutes Per Pound, Cents"/>
+</variables>
+<observations count="23" labels="false">
+<obs>27.8 397.5 42.2 50.7 78.3 65.8 </obs>
+<obs>29.9 413.3 38.1 52.0 79.2 66.9 </obs>
+<obs>29.8 439.2 40.3 54.0 79.2 67.8 </obs>
+<obs>30.8 459.7 39.5 55.3 79.2 69.6 </obs>
+<obs>31.2 492.9 37.3 54.7 77.4 68.7 </obs>
+<obs>33.3 528.6 38.1 63.7 80.2 73.6 </obs>
+<obs>35.6 560.3 39.3 69.8 80.4 76.3 </obs>
+<obs>36.4 624.6 37.8 65.9 83.9 77.2 </obs>
+<obs>36.7 666.4 38.4 64.5 85.5 78.1 </obs>
+<obs>38.4 717.8 40.1 70.0 93.7 84.7 </obs>
+<obs>40.4 768.2 38.6 73.2 106.1 93.3 </obs>
+<obs>40.3 843.3 39.8 67.8 104.8 89.7 </obs>
+<obs>41.8 911.6 39.7 79.1 114.0 100.7 </obs>
+<obs>40.4 931.1 52.1 95.4 124.1 113.5 </obs>
+<obs>40.7 1021.5 48.9 94.2 127.6 115.3 </obs>
+<obs>40.1 1165.9 58.3 123.5 142.9 136.7 </obs>
+<obs>42.7 1349.6 57.9 129.9 143.6 139.2 </obs>
+<obs>44.1 1449.4 56.5 117.6 139.2 132.0 </obs>
+<obs>46.7 1575.5 63.7 130.9 165.5 132.1 </obs>
+<obs>50.6 1759.1 61.6 129.8 203.3 154.4 </obs>
+<obs>50.1 1994.2 58.9 128.0 219.6 174.9 </obs>
+<obs>51.7 2258.1 66.4 141.0 221.6 180.8 </obs>
+<obs>52.9 2478.7 70.4 168.2 232.6 189.4 </obs>
+</observations>
+</gretldata>

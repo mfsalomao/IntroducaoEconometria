@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_2.6" frequency="1" startobs="1" endobs="13" type="cross-section">
+<description>
+Table 2.6
+
+Mean hourly wage by education
+
+Source: Arthus S. Goldberger, Introductory Econometrics,
+Harvard University Press, Cambridge, Mass., 1998, Table 1.1,
+page 5 (adapted).
+</description>
+<variables count="3">
+<variable name="school"
+ label="Years of schooling"/>
+<variable name="wage"
+ label="Mean wage, $"/>
+<variable name="npeople"
+ label="Number of people in education category"/>
+</variables>
+<observations count="13" labels="false">
+<obs>6 4.4567 3 </obs>
+<obs>7 5.7700 5 </obs>
+<obs>8 5.9787 15 </obs>
+<obs>9 7.3317 12 </obs>
+<obs>10 7.3182 17 </obs>
+<obs>11 6.5844 27 </obs>
+<obs>12 7.8182 218 </obs>
+<obs>13 7.8351 37 </obs>
+<obs>14 11.0223 56 </obs>
+<obs>15 10.6738 13 </obs>
+<obs>16 10.8361 70 </obs>
+<obs>17 13.6150 24 </obs>
+<obs>18 13.5310 31 </obs>
+</observations>
+</gretldata>

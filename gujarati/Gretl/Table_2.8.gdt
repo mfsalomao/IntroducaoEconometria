@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_2.8" frequency="1" startobs="1" endobs="55" type="cross-section">
+<description>
+Table 2.8
+
+Food and total expenditure for 55 rural households in India
+
+Source: Chandan Mukherjee, Howard White and Marc Wuyts,
+Econometrics and Data Analysis for Developing Countries,
+Routledge, New York, 1998, p. 457.
+</description>
+<variables count="2">
+<variable name="foodexp"
+ label="Expenditure on food (rupees)"/>
+<variable name="totexp"
+ label="Total household expenditure (rupees)"/>
+</variables>
+<observations count="55" labels="false">
+<obs>217 382 </obs>
+<obs>196 388 </obs>
+<obs>303 391 </obs>
+<obs>270 415 </obs>
+<obs>325 456 </obs>
+<obs>260 460 </obs>
+<obs>300 472 </obs>
+<obs>325 478 </obs>
+<obs>336 494 </obs>
+<obs>345 516 </obs>
+<obs>325 525 </obs>
+<obs>362 554 </obs>
+<obs>315 575 </obs>
+<obs>355 579 </obs>
+<obs>325 585 </obs>
+<obs>370 586 </obs>
+<obs>390 590 </obs>
+<obs>420 608 </obs>
+<obs>410 610 </obs>
+<obs>383 616 </obs>
+<obs>315 618 </obs>
+<obs>267 623 </obs>
+<obs>420 627 </obs>
+<obs>300 630 </obs>
+<obs>410 635 </obs>
+<obs>220 640 </obs>
+<obs>403 648 </obs>
+<obs>350 650 </obs>
+<obs>390 655 </obs>
+<obs>385 662 </obs>
+<obs>470 663 </obs>
+<obs>322 677 </obs>
+<obs>540 680 </obs>
+<obs>433 690 </obs>
+<obs>295 695 </obs>
+<obs>340 695 </obs>
+<obs>500 695 </obs>
+<obs>450 720 </obs>
+<obs>415 721 </obs>
+<obs>540 730 </obs>
+<obs>360 731 </obs>
+<obs>450 733 </obs>
+<obs>395 745 </obs>
+<obs>430 751 </obs>
+<obs>332 752 </obs>
+<obs>397 752 </obs>
+<obs>446 769 </obs>
+<obs>480 773 </obs>
+<obs>352 773 </obs>
+<obs>410 775 </obs>
+<obs>380 785 </obs>
+<obs>610 788 </obs>
+<obs>530 790 </obs>
+<obs>360 795 </obs>
+<obs>305 801 </obs>
+</observations>
+</gretldata>

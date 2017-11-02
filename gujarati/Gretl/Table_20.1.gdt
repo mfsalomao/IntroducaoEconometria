@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_20.1" frequency="1" startobs="1970" endobs="1991" type="time-series">
+<description>
+Table 20.1 
+
+Crop Production, Crop Prices and Per Capita Personal Consumption
+Expenditures, United States, 1970-1991
+
+  Q    = Index of Crop Production, 1977=100
+  P    = Index of Crop Prices Received by Farmers, 1977=100
+  X    = Real Per Capita Personal Consumption Expenditure, 1982 $
+
+Source: Economic Report of the President, 1993, Tables B-94,
+B-96 and B-5.
+</description>
+<variables count="3">
+<variable name="Q"
+ label="Index of Crop Production, 1977=100"/>
+<variable name="P"
+ label="Index of Crop Prices Received by Farmers, 1977=100"/>
+<variable name="X"
+ label="Real Per Capita Personal Consumption Expenditure, 1982 $"/>
+</variables>
+<observations count="22" labels="false">
+<obs>77 52 3152 </obs>
+<obs>86 56 3372 </obs>
+<obs>87 60 3658 </obs>
+<obs>92 91 4002 </obs>
+<obs>84 117 4337 </obs>
+<obs>93 105 4745 </obs>
+<obs>92 102 5241 </obs>
+<obs>100 100 5772 </obs>
+<obs>102 105 6384 </obs>
+<obs>113 116 7035 </obs>
+<obs>101 125 7677 </obs>
+<obs>117 134 8375 </obs>
+<obs>117 121 8868 </obs>
+<obs>88 128 9634 </obs>
+<obs>111 138 10408 </obs>
+<obs>118 120 11184 </obs>
+<obs>109 107 11843 </obs>
+<obs>108 106 12568 </obs>
+<obs>92 126 13448 </obs>
+<obs>107 134 14241 </obs>
+<obs>114 127 14996 </obs>
+<obs>111 130 15384 </obs>
+</observations>
+</gretldata>

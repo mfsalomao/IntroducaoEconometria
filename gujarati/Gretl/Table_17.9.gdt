@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_17.9" frequency="1" startobs="1960" endobs="1999" type="time-series">
+<description>
+Table 17.9
+
+Investments, Sales, Interest rate, US, 1960-1999
+
+INVEST   = Private fixed investment in information processing
+           equipment and software, $ billions
+SALES    = Sales in total manufacturing and trade, $ millions	
+INTEREST = Moody's AAA corporate bond rate, percent
+
+Source: Economic Report of the President, 2001, 
+Tables B-18, B-57 and B-73.
+</description>
+<variables count="3">
+<variable name="INVEST"
+ label="Private fixed investment in information processing, $ billions"/>
+<variable name="SALES"
+ label="Sales in total manufacturing and trade, $ millions"/>
+<variable name="INTEREST"
+ label="Moody's AAA corporate bond rate, percent"/>
+</variables>
+<observations count="40" labels="false">
+<obs>4.9 60827 4.41 </obs>
+<obs>5.2 61159 4.35 </obs>
+<obs>5.7 65662 4.33 </obs>
+<obs>6.5 68995 4.26 </obs>
+<obs>7.3 73682 4.40 </obs>
+<obs>8.5 80283 4.49 </obs>
+<obs>10.6 87187 5.13 </obs>
+<obs>11.2 90820 5.51 </obs>
+<obs>11.9 96685 6.18 </obs>
+<obs>14.6 105690 7.03 </obs>
+<obs>16.7 108221 8.04 </obs>
+<obs>17.3 116895 7.39 </obs>
+<obs>19.3 131081 7.21 </obs>
+<obs>23.0 153677 7.44 </obs>
+<obs>26.8 177912 8.57 </obs>
+<obs>28.2 182198 8.83 </obs>
+<obs>32.4 204150 8.43 </obs>
+<obs>38.6 229513 8.02 </obs>
+<obs>48.3 260320 8.73 </obs>
+<obs>58.6 297701 9.63 </obs>
+<obs>69.6 327233 11.94 </obs>
+<obs>82.4 355822 14.17 </obs>
+<obs>88.9 347625 13.79 </obs>
+<obs>100.8 369286 12.04 </obs>
+<obs>121.7 410124 12.71 </obs>
+<obs>130.8 422583 11.37 </obs>
+<obs>137.6 430419 9.02 </obs>
+<obs>141.9 457735 9.38 </obs>
+<obs>155.9 497157 9.71 </obs>
+<obs>173.0 527039 9.26 </obs>
+<obs>176.1 545909 9.32 </obs>
+<obs>181.4 542815 8.77 </obs>
+<obs>197.5 567176 8.14 </obs>
+<obs>215.0 595628 7.22 </obs>
+<obs>233.7 639163 7.96 </obs>
+<obs>262.0 684982 7.59 </obs>
+<obs>287.3 718113 7.37 </obs>
+<obs>325.2 753445 7.26 </obs>
+<obs>367.4 779413 6.53 </obs>
+<obs>433.0 833079 7.04 </obs>
+</observations>
+</gretldata>

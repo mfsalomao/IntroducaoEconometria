@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_5.8" frequency="1" startobs="1" endobs="5" type="cross-section">
+<description>
+Table 5.8 - Consumption of Good X and Y
+  X = Consumption of Good X
+  Y = Consumption of Good Y
+</description>
+<variables count="2">
+<variable name="X"
+ label="Consumption of Good X"/>
+<variable name="Y"
+ label="Consumption of Good Y"/>
+</variables>
+<observations count="5" labels="false">
+<obs>1 4.0 </obs>
+<obs>2 3.5 </obs>
+<obs>3 2.8 </obs>
+<obs>4 1.9 </obs>
+<obs>5 0.8 </obs>
+</observations>
+</gretldata>

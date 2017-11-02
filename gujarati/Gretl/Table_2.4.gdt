@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_2.4" frequency="1" startobs="1" endobs="10" type="cross-section">
+<description>
+Table 2.4 
+
+A Random Sample from the Population of Table 2.1
+(Family income and consumption)
+</description>
+<variables count="2">
+<variable name="Y"
+ label="weekly family consumption"/>
+<variable name="X"
+ label="weekly family income"/>
+</variables>
+<observations count="10" labels="false">
+<obs>70 80 </obs>
+<obs>65 100 </obs>
+<obs>90 120 </obs>
+<obs>95 140 </obs>
+<obs>110 160 </obs>
+<obs>115 180 </obs>
+<obs>120 200 </obs>
+<obs>140 220 </obs>
+<obs>155 240 </obs>
+<obs>150 260 </obs>
+</observations>
+</gretldata>

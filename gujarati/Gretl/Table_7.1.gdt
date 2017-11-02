@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_7.1" frequency="1" startobs="1970" endobs="1980" type="time-series">
+<description>
+Table 7.1
+ 
+ U.S. Coffee Consumption in Relation to Average Real Retail
+ Price, 1970-1980
+
+  Y    = U.S. Coffee Consumption, Cups Per Person Per Day
+  X    = Average Real Retail Price, $ Per Pound
+
+Source: Consumption from Summary of National Coffee Drinking
+Study, Data Group, Elkins Park, PA, 1981; price from Nielsen
+Food Index (A. C. Nielsen, New York, 1981) divided by the CPI 
+for food and beverages, 1967 = 100.
+</description>
+<variables count="2">
+<variable name="Y"
+ label="U.S. Coffee Consumption, Cups Per Person Per Day"/>
+<variable name="X"
+ label="Average Real Retail Price, $ Per Pound"/>
+</variables>
+<observations count="11" labels="false">
+<obs>2.57 0.77 </obs>
+<obs>2.50 0.74 </obs>
+<obs>2.35 0.72 </obs>
+<obs>2.30 0.73 </obs>
+<obs>2.25 0.76 </obs>
+<obs>2.20 0.75 </obs>
+<obs>2.11 1.08 </obs>
+<obs>1.94 1.81 </obs>
+<obs>1.97 1.39 </obs>
+<obs>2.06 1.20 </obs>
+<obs>2.02 1.17 </obs>
+</observations>
+</gretldata>

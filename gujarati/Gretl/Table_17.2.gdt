@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_17.2" frequency="1" startobs="1970" endobs="1999" type="time-series">
+<description>
+Table 17.2
+
+Per capital consumption and disposable income, U.S. 1970-1999
+
+PPCE = per capita personal consumption expenditure
+PPDI = per capital personal disposable income
+
+Source: Economic Report of the President, 2001, Table B-31.
+</description>
+<variables count="2">
+<variable name="PPCE"
+ label="per capita personal consumption expenditure"/>
+<variable name="PPDI"
+ label="per capital personal disposable income"/>
+</variables>
+<observations count="30" labels="false">
+<obs>11300 12823 </obs>
+<obs>11581 13218 </obs>
+<obs>12149 13692 </obs>
+<obs>12626 14496 </obs>
+<obs>12407 14268 </obs>
+<obs>12551 14393 </obs>
+<obs>13155 14873 </obs>
+<obs>13583 15256 </obs>
+<obs>14035 15845 </obs>
+<obs>14230 16120 </obs>
+<obs>14021 16063 </obs>
+<obs>14069 16265 </obs>
+<obs>14105 16328 </obs>
+<obs>14741 16673 </obs>
+<obs>15401 17799 </obs>
+<obs>16020 18229 </obs>
+<obs>16541 18641 </obs>
+<obs>16398 18870 </obs>
+<obs>17463 19522 </obs>
+<obs>17760 19833 </obs>
+<obs>17899 20058 </obs>
+<obs>17677 19919 </obs>
+<obs>17989 20318 </obs>
+<obs>18399 20384 </obs>
+<obs>18910 20709 </obs>
+<obs>19294 21055 </obs>
+<obs>19727 21385 </obs>
+<obs>20232 21838 </obs>
+<obs>20989 22672 </obs>
+<obs>21901 23191 </obs>
+</observations>
+</gretldata>

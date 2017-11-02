@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_7.3" frequency="1" startobs="1958" endobs="1972" type="time-series">
+<description>
+Table 7.3 
+
+Real Gross Product, Labor Days and Real Capital Input in the
+            Agricultural Sector, Taiwan, 1958-1972
+
+  Y    = Real Gross Product, Millions of NT $
+  X2   = Labor Days, Millions of Days
+  X3   = Real Capital Input, Millions of NT $
+
+Source: Thomas Pei-Fan Chen, "Economic Growth and Structural
+Change in Taiwan, 1952-1972, A Production Function Approach",
+Ph.D. thesis, Dept. of Economics, CUNY, June 1976, Table II
+</description>
+<variables count="3">
+<variable name="Y"
+ label="Real Gross Product, Millions of NT $"/>
+<variable name="X2"
+ label="Labor Days, Millions of Days"/>
+<variable name="X3"
+ label="Real Capital Input, Millions of NT $"/>
+</variables>
+<observations count="15" labels="false">
+<obs>16607.7 275.5 17803.7 </obs>
+<obs>17511.3 274.4 18096.8 </obs>
+<obs>20171.2 269.7 18271.8 </obs>
+<obs>20932.9 267.0 19167.3 </obs>
+<obs>20406.0 267.8 19647.6 </obs>
+<obs>20831.6 275.0 20803.5 </obs>
+<obs>24806.3 283.0 22076.6 </obs>
+<obs>26465.8 300.7 23445.2 </obs>
+<obs>27403.0 307.5 24939.0 </obs>
+<obs>28628.7 303.7 26713.7 </obs>
+<obs>29904.5 304.7 29957.8 </obs>
+<obs>27508.2 298.6 31585.9 </obs>
+<obs>29035.5 295.5 33474.5 </obs>
+<obs>29281.5 299.0 34821.8 </obs>
+<obs>31535.8 288.1 41794.3 </obs>
+</observations>
+</gretldata>

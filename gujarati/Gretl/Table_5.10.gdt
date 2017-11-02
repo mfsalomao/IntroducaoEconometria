@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_5.10" frequency="1" startobs="1960" endobs="1999" type="time-series">
+<description>
+Table 5.10: U.S. CPI and WPI, 1960-1999
+
+Source: Economic Report of the President, 2000, pp. 373 and 379.
+</description>
+<variables count="2">
+<variable name="CPI"
+ label="Consumer Price Index"/>
+<variable name="WPI"
+ label="Wholesale Price Index"/>
+</variables>
+<observations count="40" labels="false">
+<obs>29.8 31.7 </obs>
+<obs>30.0 31.6 </obs>
+<obs>30.4 31.6 </obs>
+<obs>30.9 31.6 </obs>
+<obs>31.2 31.7 </obs>
+<obs>31.8 32.8 </obs>
+<obs>32.9 33.3 </obs>
+<obs>33.9 33.7 </obs>
+<obs>35.5 34.6 </obs>
+<obs>37.7 36.3 </obs>
+<obs>39.8 37.1 </obs>
+<obs>41.1 38.6 </obs>
+<obs>42.5 41.1 </obs>
+<obs>46.2 47.4 </obs>
+<obs>51.9 57.3 </obs>
+<obs>55.5 59.7 </obs>
+<obs>58.2 62.5 </obs>
+<obs>62.1 66.2 </obs>
+<obs>67.7 72.7 </obs>
+<obs>76.7 83.4 </obs>
+<obs>86.3 93.8 </obs>
+<obs>94.0 98.8 </obs>
+<obs>97.6 100.5 </obs>
+<obs>101.3 102.3 </obs>
+<obs>105.3 103.5 </obs>
+<obs>109.3 103.6 </obs>
+<obs>110.5 99.7 </obs>
+<obs>115.4 104.2 </obs>
+<obs>120.5 109.0 </obs>
+<obs>126.1 113.0 </obs>
+<obs>133.8 118.7 </obs>
+<obs>137.9 115.9 </obs>
+<obs>141.9 117.6 </obs>
+<obs>145.8 118.6 </obs>
+<obs>149.7 121.9 </obs>
+<obs>153.5 125.7 </obs>
+<obs>158.6 128.8 </obs>
+<obs>161.3 126.7 </obs>
+<obs>163.9 122.7 </obs>
+<obs>168.3 128.0 </obs>
+</observations>
+</gretldata>

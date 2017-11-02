@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_17.10" frequency="1" startobs="1960" endobs="1999" type="time-series">
+<description>
+Table 17.10
+
+Compensation, Productivity and Unemployment, USA, 1960-1999
+
+Source: Economic Report of the President, 2001, Table B-49.
+</description>
+<variables count="3">
+<variable name="COMPENS"
+ label="Index of real compensation per hour (1992 = 100)"/>
+<variable name="PRODUC"
+ label="Index of output per hour (1992 = 100)"/>
+<variable name="UNRATE"
+ label="Civilian unemployment rate, percent"/>
+</variables>
+<observations count="40" labels="false">
+<obs>60.0 48.8 5.5 </obs>
+<obs>61.8 50.6 6.7 </obs>
+<obs>63.9 52.9 5.5 </obs>
+<obs>65.4 55.0 5.7 </obs>
+<obs>67.9 57.5 5.2 </obs>
+<obs>69.4 59.6 4.5 </obs>
+<obs>71.9 62.0 3.8 </obs>
+<obs>73.8 63.4 3.8 </obs>
+<obs>76.3 65.4 3.6 </obs>
+<obs>77.4 65.7 3.5 </obs>
+<obs>78.9 67.0 4.9 </obs>
+<obs>80.4 69.9 5.9 </obs>
+<obs>82.7 72.2 5.6 </obs>
+<obs>84.5 74.5 4.9 </obs>
+<obs>83.5 73.2 5.6 </obs>
+<obs>84.4 75.8 8.5 </obs>
+<obs>86.8 78.5 7.7 </obs>
+<obs>87.9 79.8 7.1 </obs>
+<obs>89.5 80.7 6.1 </obs>
+<obs>89.7 80.7 5.8 </obs>
+<obs>89.5 80.4 7.1 </obs>
+<obs>89.5 82.0 7.6 </obs>
+<obs>90.9 81.7 9.7 </obs>
+<obs>91.0 84.6 9.6 </obs>
+<obs>91.3 87.0 7.5 </obs>
+<obs>92.7 88.7 7.2 </obs>
+<obs>95.8 91.4 7.0 </obs>
+<obs>96.3 91.9 6.2 </obs>
+<obs>97.3 93.0 5.5 </obs>
+<obs>95.9 93.9 5.3 </obs>
+<obs>96.5 95.2 5.6 </obs>
+<obs>97.5 96.3 6.8 </obs>
+<obs>100.0 100.0 7.5 </obs>
+<obs>99.9 100.5 6.9 </obs>
+<obs>99.7 101.9 6.1 </obs>
+<obs>99.3 102.6 5.6 </obs>
+<obs>99.7 105.4 5.4 </obs>
+<obs>100.4 107.6 4.9 </obs>
+<obs>104.3 110.5 4.5 </obs>
+<obs>107.3 114.0 4.2 </obs>
+</observations>
+</gretldata>

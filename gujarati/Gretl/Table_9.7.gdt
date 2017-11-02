@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_9.7" frequency="4" startobs="1958:4" endobs="1971:2" type="time-series">
+<description>
+Table 9.7
+Unemployment and job vacancy rates, UK, quarterly
+
+Source: D. Gujarati, "The Behaviour of Unemployment and Unfilled
+Vacancies: Great Britain, 1958-1971", The Economic Journal, vol. 82,
+March 1972.
+</description>
+<variables count="2">
+<variable name="UN"
+ label="Unemployment rate, percent"/>
+<variable name="V"
+ label="Job vacancy rate, percent"/>
+</variables>
+<observations count="51" labels="false">
+<obs>1.915 0.510 </obs>
+<obs>1.876 0.541 </obs>
+<obs>1.842 0.541 </obs>
+<obs>1.750 0.690 </obs>
+<obs>1.648 0.771 </obs>
+<obs>1.450 0.836 </obs>
+<obs>1.393 0.908 </obs>
+<obs>1.322 0.968 </obs>
+<obs>1.260 0.998 </obs>
+<obs>1.171 0.968 </obs>
+<obs>1.182 0.964 </obs>
+<obs>1.221 0.952 </obs>
+<obs>1.340 0.849 </obs>
+<obs>1.411 0.748 </obs>
+<obs>1.600 0.658 </obs>
+<obs>1.780 0.562 </obs>
+<obs>1.941 0.510 </obs>
+<obs>2.178 0.510 </obs>
+<obs>2.067 0.544 </obs>
+<obs>1.942 0.568 </obs>
+<obs>1.764 0.677 </obs>
+<obs>1.532 0.794 </obs>
+<obs>1.455 0.838 </obs>
+<obs>1.409 0.885 </obs>
+<obs>1.296 0.978 </obs>
+<obs>1.201 0.997 </obs>
+<obs>1.192 1.035 </obs>
+<obs>1.259 1.040 </obs>
+<obs>1.192 1.086 </obs>
+<obs>1.089 1.101 </obs>
+<obs>1.101 1.058 </obs>
+<obs>1.243 0.987 </obs>
+<obs>1.623 0.819 </obs>
+<obs>1.821 0.740 </obs>
+<obs>1.990 0.661 </obs>
+<obs>2.114 0.660 </obs>
+<obs>2.115 0.698 </obs>
+<obs>2.150 0.695 </obs>
+<obs>2.141 0.732 </obs>
+<obs>2.167 0.749 </obs>
+<obs>2.107 0.800 </obs>
+<obs>2.104 0.783 </obs>
+<obs>2.056 0.800 </obs>
+<obs>2.170 0.794 </obs>
+<obs>2.161 0.790 </obs>
+<obs>2.225 0.757 </obs>
+<obs>2.241 0.746 </obs>
+<obs>2.366 0.739 </obs>
+<obs>2.324 0.707 </obs>
+<obs>2.516 0.583 </obs>
+<obs>2.909 0.524 </obs>
+</observations>
+</gretldata>

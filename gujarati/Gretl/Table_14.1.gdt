@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_14.1" frequency="1" startobs="1" endobs="12" type="cross-section">
+<description>
+Table 14.1
+
+Management Fee Schedule of a Mutual Fund
+
+Y = Fee (%)
+X = Net asset value ($, billions)
+</description>
+<variables count="2">
+<variable name="Y"
+ label="Fee, percent"/>
+<variable name="X"
+ label="Net asset value ($ billions)"/>
+</variables>
+<observations count="12" labels="false">
+<obs>0.5200 0.5 </obs>
+<obs>0.5080 5.0 </obs>
+<obs>0.4840 10.0 </obs>
+<obs>0.4600 15.0 </obs>
+<obs>0.4398 20.0 </obs>
+<obs>0.4238 25.0 </obs>
+<obs>0.4115 30.0 </obs>
+<obs>0.4020 35.0 </obs>
+<obs>0.3944 40.0 </obs>
+<obs>0.3880 45.0 </obs>
+<obs>0.3825 55.0 </obs>
+<obs>0.3738 60.0 </obs>
+</observations>
+</gretldata>

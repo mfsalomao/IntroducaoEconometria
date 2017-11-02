@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_13.3" frequency="1" startobs="1970" endobs="1991" type="time-series">
+<description>
+Table 13.3
+
+Per Capita Personal Consumption Expenditure and Per Capita
+Personal Disposable Income, United States, 1970-1991
+
+  PPCE = Per Capita Personal Consumption Expenditure, 1987 $
+  PDPI = Per Capita Personal Disposable Income, 1987 $
+
+Source: Economic Report of the President, 1993, Table B-5.
+</description>
+<variables count="2">
+<variable name="PPCE"
+ label="Per Capita Personal Consumption Expenditure, 1987 $"/>
+<variable name="PDPI"
+ label="Per Capita Personal Disposable Income, 1987 $"/>
+</variables>
+<observations count="22" labels="false">
+<obs>8842 9875 </obs>
+<obs>9022 10111 </obs>
+<obs>9425 10414 </obs>
+<obs>9752 11013 </obs>
+<obs>9602 10832 </obs>
+<obs>9711 10906 </obs>
+<obs>10121 11192 </obs>
+<obs>10425 11406 </obs>
+<obs>10744 11851 </obs>
+<obs>10876 12039 </obs>
+<obs>10746 12005 </obs>
+<obs>10770 12156 </obs>
+<obs>10782 12146 </obs>
+<obs>11179 12349 </obs>
+<obs>11617 13029 </obs>
+<obs>12015 13258 </obs>
+<obs>12336 13552 </obs>
+<obs>12568 13545 </obs>
+<obs>12903 13890 </obs>
+<obs>13029 14005 </obs>
+<obs>13044 14068 </obs>
+<obs>12824 13886 </obs>
+</observations>
+</gretldata>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_3.6" frequency="1" startobs="1959" endobs="1997" type="time-series">
+<description>
+Table 3.6
+
+Productivity and related data, U.S. business sector, 1959-1997
+
+Y1 output per hour, business sector
+Y2 output per hour, nonfarm business sector
+X1 compensation per hour, business sector
+X2 compensation per hour, nonfarm business
+
+Source: Economic Report of the President, 1999, Table B-49
+</description>
+<variables count="4">
+<variable name="Y1"
+ label="= output per hour, business sector"/>
+<variable name="Y2"
+ label="= output per hour, nonfarm business sector"/>
+<variable name="X1"
+ label="= compensation per hour, business sector"/>
+<variable name="X2"
+ label="= compensation per hour, nonfardm business"/>
+</variables>
+<observations count="39" labels="false">
+<obs>50.5 54.2 13.1 13.7 </obs>
+<obs>51.4 54.8 13.7 14.3 </obs>
+<obs>53.2 56.6 14.2 14.8 </obs>
+<obs>55.7 59.2 14.8 15.4 </obs>
+<obs>57.9 61.2 15.4 15.9 </obs>
+<obs>60.6 63.8 16.2 16.7 </obs>
+<obs>62.7 65.8 16.8 17.2 </obs>
+<obs>65.2 68.0 17.9 18.2 </obs>
+<obs>66.6 69.2 18.9 19.3 </obs>
+<obs>68.9 71.6 20.5 20.8 </obs>
+<obs>69.2 71.7 21.9 22.2 </obs>
+<obs>70.6 72.7 23.6 23.8 </obs>
+<obs>73.6 75.7 25.1 25.4 </obs>
+<obs>76.0 78.3 26.7 27.0 </obs>
+<obs>78.4 80.7 29.0 29.2 </obs>
+<obs>77.1 79.4 31.8 32.1 </obs>
+<obs>79.8 81.6 35.1 35.3 </obs>
+<obs>82.5 84.5 38.2 38.4 </obs>
+<obs>84.0 85.8 41.2 41.5 </obs>
+<obs>84.9 87.0 44.9 45.2 </obs>
+<obs>84.5 86.3 49.2 49.5 </obs>
+<obs>84.2 86.0 54.5 54.8 </obs>
+<obs>85.8 87.0 59.6 60.2 </obs>
+<obs>85.3 86.3 64.1 64.6 </obs>
+<obs>88.0 89.9 66.8 67.3 </obs>
+<obs>90.2 91.4 69.7 70.2 </obs>
+<obs>91.7 92.3 73.1 73.4 </obs>
+<obs>94.1 94.7 76.8 77.2 </obs>
+<obs>94.0 94.5 79.8 80.1 </obs>
+<obs>94.7 95.3 83.6 83.7 </obs>
+<obs>95.5 95.8 85.9 86.0 </obs>
+<obs>96.1 96.3 90.8 90.7 </obs>
+<obs>96.7 97.0 95.1 95.1 </obs>
+<obs>100.0 100.0 100.0 100.0 </obs>
+<obs>100.1 100.1 102.5 102.2 </obs>
+<obs>100.7 100.6 104.4 104.2 </obs>
+<obs>101.0 101.2 106.8 106.7 </obs>
+<obs>103.7 103.7 110.7 110.4 </obs>
+<obs>105.4 105.1 114.9 114.5 </obs>
+</observations>
+</gretldata>

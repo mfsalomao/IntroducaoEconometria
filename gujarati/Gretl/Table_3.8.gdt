@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_3.8" frequency="1" startobs="1959" endobs="1997" type="time-series">
+<description>
+Table 3.8
+
+Nominal and Real GDP, USA, 1959-1997
+
+Source: Economic Report of the President, 1999, Tables
+B1 and B-2.
+</description>
+<variables count="2">
+<variable name="NGDP"
+ label="= Nominal GDP"/>
+<variable name="RGDP"
+ label="= Real GDP"/>
+</variables>
+<observations count="39" labels="false">
+<obs>507.2 2210.2 </obs>
+<obs>526.6 2262.9 </obs>
+<obs>544.8 2314.3 </obs>
+<obs>585.2 2454.8 </obs>
+<obs>617.4 2559.4 </obs>
+<obs>663.0 2708.4 </obs>
+<obs>719.1 2881.1 </obs>
+<obs>787.7 3069.2 </obs>
+<obs>833.6 3147.2 </obs>
+<obs>910.6 3293.9 </obs>
+<obs>982.2 3393.6 </obs>
+<obs>1035.6 3397.6 </obs>
+<obs>1125.4 3510.0 </obs>
+<obs>1237.3 3702.3 </obs>
+<obs>1382.6 3916.3 </obs>
+<obs>1496.9 3891.2 </obs>
+<obs>1630.6 3873.9 </obs>
+<obs>1819.0 4082.9 </obs>
+<obs>2026.9 4273.6 </obs>
+<obs>2291.4 4503.0 </obs>
+<obs>2557.5 4630.6 </obs>
+<obs>2784.2 4615.0 </obs>
+<obs>3115.9 4720.7 </obs>
+<obs>3242.1 4620.3 </obs>
+<obs>3514.5 4803.7 </obs>
+<obs>3902.4 5140.1 </obs>
+<obs>4180.7 5323.5 </obs>
+<obs>4422.2 5487.7 </obs>
+<obs>4692.3 5649.5 </obs>
+<obs>5049.6 5865.2 </obs>
+<obs>5438.7 6062.0 </obs>
+<obs>5743.8 6136.3 </obs>
+<obs>5916.7 6079.4 </obs>
+<obs>6244.4 6244.4 </obs>
+<obs>6558.1 6389.6 </obs>
+<obs>6947.0 6610.7 </obs>
+<obs>7269.6 6761.7 </obs>
+<obs>7661.6 6994.8 </obs>
+<obs>8110.9 7269.8 </obs>
+</observations>
+</gretldata>

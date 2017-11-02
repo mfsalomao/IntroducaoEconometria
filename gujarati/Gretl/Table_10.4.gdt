@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_10.4" frequency="1" startobs="1" endobs="5" type="cross-section">
+<description>
+Table 10.4
+
+Hypothetical Data on Y, X2 and X3
+</description>
+<variables count="3">
+<variable name="Y"/>
+<variable name="X2"/>
+<variable name="X3"/>
+</variables>
+<observations count="5" labels="false">
+<obs>1 2 4 </obs>
+<obs>2 0 2 </obs>
+<obs>3 4 0 </obs>
+<obs>4 6 12 </obs>
+<obs>5 8 16 </obs>
+</observations>
+</gretldata>

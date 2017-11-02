@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata name="Table_17.5" frequency="1" startobs="1967" endobs="1993" type="time-series">
+<description>
+Table 17.5
+
+Private consumption expenditure and GDP, Sri Lanka 1967-1993
+
+Source: C. Mukherjee, H. White and M. Wuyts, Econometrics and Data
+Analysis for Developing Countries, New York: Routledge, 1998.
+</description>
+<variables count="2">
+<variable name="PCON"
+ label="Private consumption expenditure"/>
+<variable name="GDP"
+ label="Gross Domestic Product"/>
+</variables>
+<observations count="27" labels="false">
+<obs>61284 78221 </obs>
+<obs>68814 83326 </obs>
+<obs>76766 90490 </obs>
+<obs>73576 92692 </obs>
+<obs>73256 94814 </obs>
+<obs>67502 92590 </obs>
+<obs>78832 101419 </obs>
+<obs>80240 105267 </obs>
+<obs>84477 112149 </obs>
+<obs>86038 116078 </obs>
+<obs>96275 122040 </obs>
+<obs>101292 128578 </obs>
+<obs>105448 136851 </obs>
+<obs>114570 144734 </obs>
+<obs>120477 152846 </obs>
+<obs>133868 164318 </obs>
+<obs>148004 172414 </obs>
+<obs>149735 178433 </obs>
+<obs>155200 185753 </obs>
+<obs>154165 192059 </obs>
+<obs>155445 191288 </obs>
+<obs>157199 196055 </obs>
+<obs>158576 202477 </obs>
+<obs>169238 223225 </obs>
+<obs>179001 233231 </obs>
+<obs>183687 242762 </obs>
+<obs>198273 259555 </obs>
+</observations>
+</gretldata>
